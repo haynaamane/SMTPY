@@ -1,0 +1,5 @@
+test@boitemail.com
+test2@boitmail.com
+helloworld@mail.com
+support@naamane.me
+admin@naamane.me
